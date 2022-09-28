@@ -64,3 +64,12 @@ body {
     flex-direction: column;
     gap: 2pc;
 }
+
+#input-style {
+    height: 2.5pc;
+    width: 15pc;
+    margin-top: 2pc;
+    border: 5px solid #222;
+    border-radius: 10pc;
+    font-size: large;
+}
