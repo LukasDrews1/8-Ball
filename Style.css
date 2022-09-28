@@ -45,8 +45,8 @@ body {
     min-width: 5pc;
     font-size: 3pc;
     color: #fff;
-    border: 0.5pc solid #7700ff;
-    border-radius: 50%;
     background-color: #3a3434;
+    border: 0;
+    border-radius: 50%
 }
 
