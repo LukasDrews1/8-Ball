@@ -57,7 +57,7 @@ body {
     padding: 1pc;
 }
 
-#box-input-button {
+#Box-input-button {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -65,7 +65,7 @@ body {
     gap: 2pc;
 }
 
-#input-style {
+#Input-style {
     height: 2.5pc;
     width: 15pc;
     margin-top: 2pc;
