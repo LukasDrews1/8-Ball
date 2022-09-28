@@ -56,3 +56,11 @@ body {
     border-radius: 50%;
     padding: 1pc;
 }
+
+#box-input-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 2pc;
+}
