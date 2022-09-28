@@ -50,3 +50,8 @@ body {
     border-radius: 50%
 }
 
+#Magic-8-ball-border {
+    border: 2pc solid #7700ff;
+    border-radius: 50%;
+    padding: 2pc;
+}
