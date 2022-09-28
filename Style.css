@@ -82,3 +82,7 @@ body {
     border-radius: 10pc;
     font-size: large;
 }
+
+#Enter:hover {
+    background-color: #33438d;
+}
