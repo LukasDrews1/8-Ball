@@ -29,10 +29,12 @@ body {
 }
 
 #Magic-8-ball  {
-    height: 250px;
-    width: 20%;
+    height: 350px;
+    width: 350px;
     border-radius: 50%;
-    background-color: #af0d0d;
+    font-size: 3pc;
+    background-color: #3a3434;
+    color: #fff;
     display: flex;
     justify-content: center;
     align-items: center;
