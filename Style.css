@@ -32,11 +32,21 @@ body {
     height: 350px;
     width: 350px;
     border-radius: 50%;
-    font-size: 3pc;
     background-color: #3a3434;
-    color: #fff;
     display: flex;
     justify-content: center;
     align-items: center;
     margin: auto;
 }
+
+#Answer {
+    height: 5pc;
+    width: 100%;
+    min-width: 5pc;
+    font-size: 3pc;
+    color: #fff;
+    border: 0.5pc solid #7700ff;
+    border-radius: 50%;
+    background-color: #3a3434;
+}
+
