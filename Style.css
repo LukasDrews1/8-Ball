@@ -4,7 +4,7 @@ body {
     color: #e2e2e2;
     font-family: sans-serif;
     text-align: center;
-    background: linear-gradient(270deg, #243066, #2e3030);
+    background: linear-gradient(270deg, #243066, #5aafaf);
     background-size: 400% 400%;
 
     -webkit-animation: AnimationBackground 10s ease infinite;
