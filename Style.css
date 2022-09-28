@@ -45,14 +45,14 @@ body {
     min-width: 5pc;
     font-size: 1pc;
     color: #222;
-    background-color: #ffffff;
+    background-color: #e2e2e2;
     border: 0;
     border-radius: 50%;
 }
 
 #Magic-8-ball-border {
-    border: 2pc solid #fafafa;
-    background-color: #ffffff;
+    border: 2pc solid #e2e2e2;
+    background-color: #e2e2e2;
     border-radius: 50%;
     padding: 1pc;
 }
@@ -79,6 +79,7 @@ body {
     width: 10pc;
     border: 5px solid #222;
     background-color: #243066;
+    color: #e2e2e2;
     border-radius: 10pc;
     font-size: large;
 }
