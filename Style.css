@@ -73,3 +73,11 @@ body {
     border-radius: 10pc;
     font-size: large;
 }
+
+#Enter {
+    height: 2.5pc;
+    width: 10pc;
+    border: 5px solid #222;
+    border-radius: 10pc;
+    font-size: large;
+}
