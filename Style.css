@@ -87,3 +87,7 @@ body {
 #Enter:hover {
     background-color: #33438d;
 }
+
+#Enter:active {
+    background-color: #246638;
+}
