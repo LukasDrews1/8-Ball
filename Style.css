@@ -40,14 +40,14 @@ body {
 }
 
 #Answer {
-    height: 5pc;
-    width: 100%;
+    height: 3pc;
+    width: 5pc;
     min-width: 5pc;
-    font-size: 4.5pc;
+    font-size: 1pc;
     color: #222;
     background-color: #ffffff;
     border: 0;
-    border-radius: 50%
+    border-radius: 50%;
 }
 
 #Magic-8-ball-border {
