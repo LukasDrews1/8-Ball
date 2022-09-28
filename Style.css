@@ -33,8 +33,13 @@ body {
     width: 20%;
     border-radius: 50%;
     background-color: #af0d0d;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: row;
+    margin: auto;
+}
+
+.Magic-8-balls {
+    height: 250px;
+    width: 200px;
+    border-radius: 50px;
+    background-color: #0daf28;
+    margin: auto;
 }
