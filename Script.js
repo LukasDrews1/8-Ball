@@ -7,5 +7,5 @@ let RandomAnswers = Math.floor(Math.random() * 5) + 1;
 
 Enter.addEventListener('click', function(){
 	Input.innerHTML = "";
-    Answer.innerHTML = Answers[0];
+    Answer.innerHTML = Answers[RandomAnswers];
 });
