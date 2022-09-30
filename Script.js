@@ -8,5 +8,4 @@ Enter.addEventListener('click', function(){
     let RandomAnswers = Math.floor(Math.random() * 4);
 	Input.value = "";
     Answer.innerHTML = Answers[RandomAnswers];
-    console.log(RandomAnswers); 
 });
