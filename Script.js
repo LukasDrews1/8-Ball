@@ -1,6 +1,8 @@
 const Answer = document.getElementById("Answer");
 const Input = document.getElementById("Input-style");
 const Enter = document.getElementById("Enter");
+const Sunrise = document.getElementById("Sunrise");
+const Moonrise = document.getElementById("Moonrise");
 
 let Answers = ["Yes", "No", "it's not likely", "It seems to be"];
 
