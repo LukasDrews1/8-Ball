@@ -90,3 +90,8 @@ body {
 #Enter:active {
     background-color: #246638;
 }
+
+header {
+    height: 5pc;
+    background-color: #2c324d;
+}
