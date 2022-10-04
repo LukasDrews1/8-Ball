@@ -41,12 +41,16 @@ body {
 
 #Answer {
     height: 5vh;
-    width: 70px;
-    font-size: 30px;
+    width: 5vh;
+    font-size: 3vh;
     padding: 30px;
     text-align: center;
     color: #222;
     background-color: #e2e2e2;
+}
+
+#Magic-8-Ball-number {
+    margin-top: -30px;
 }
 
 #Magic-8-ball-border {
